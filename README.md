@@ -1,181 +1,132 @@
-<div align="center">
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<!-- 动态打字机效果 -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%94%93+Android+Reverse+Engineer;%F0%9F%A4%96+LLM+Security+Researcher;%F0%9F%8E%AE+Game+Hacking+%26+Kernel+Dev;%F0%9F%9B%A1%EF%B8%8F+Multi-Agent+Safety+Explorer)](https://git.io/typing-svg)
+<p>I'm <b>XiaoWaaay</b>, a Security Researcher & Graduate Student at <b>UESTC (电子科技大学)</b>.</p>
+<p>I focus on <b>Android Reverse Engineering</b>, <b>Game Hacking & Kernel Security</b>, and <b>LLM/Multi-Agent Safety</b>.</p>
 
-<!-- 头像 + Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00f5ff,100:7c3aed&height=200&section=header&text=XiaoWaaay&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Security%20Researcher%20%7C%20UESTC%20Graduate%20Student&descAlignY=55&descSize=18" width="100%"/>
+<p>
+  <a href="mailto:xiaowaaa2@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/XiaoWaaay?tab=followers"><img src="https://img.shields.io/github/followers/XiaoWaaay?label=Followers&style=flat-square&color=236ad3&labelColor=1155ba&logo=person-add&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=XiaoWaaay&color=blueviolet&style=flat-square&label=Profile+Views"/>
+</p>
 
-</div>
+---
 
-<!-- About Me -->
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
+<h3>🔓 Things I hack with</h3>
+<p>
+  <img alt="IDA Pro" src="https://img.shields.io/badge/-IDA_Pro-4B0082?style=flat-square&logo=hackthebox&logoColor=white"/>
+  <img alt="Frida" src="https://img.shields.io/badge/-Frida-FF6633?style=flat-square&logo=frida&logoColor=white"/>
+  <img alt="Ghidra" src="https://img.shields.io/badge/-Ghidra-D32F2F?style=flat-square&logo=nationalsecurityagency&logoColor=white"/>
+  <img alt="Xposed" src="https://img.shields.io/badge/-Xposed-3DDC84?style=flat-square&logo=android&logoColor=white"/>
+  <img alt="Magisk" src="https://img.shields.io/badge/-Magisk-00AF9C?style=flat-square&logo=magisk&logoColor=white"/>
+  <img alt="KernelPatch" src="https://img.shields.io/badge/-KernelPatch-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+  <img alt="Linux Kernel" src="https://img.shields.io/badge/-Kernel-333333?style=flat-square&logo=linux&logoColor=white"/>
+  <img alt="ARM64" src="https://img.shields.io/badge/-ARM64-0091BD?style=flat-square&logo=arm&logoColor=white"/>
+  <img alt="eBPF" src="https://img.shields.io/badge/-eBPF-FF6600?style=flat-square&logo=linuxfoundation&logoColor=white"/>
+  <img alt="Cheat Engine" src="https://img.shields.io/badge/-Cheat_Engine-333333?style=flat-square&logo=hackthebox&logoColor=00ff00"/>
+</p>
+
+<h3>🤖 Things I build with</h3>
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img alt="C" src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black"/>
+  <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+  <img alt="Java" src="https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+  <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img alt="PyTorch" src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+  <img alt="LangChain" src="https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+</p>
+
+---
+
+<h3>🚀 Open Source Projects</h3>
 
 <table>
-<tr>
-<td width="50%" valign="top">
-
-### 🧑‍💻 Profile
-
-- 🔭 **昵称：** xiaowaaa
-- 🎓 **学校：** 电子科技大学 (UESTC) 研究生在读
-- 🔐 **方向：** 安全研究 & AI Safety
-- 💬 **座右铭：** *Break it to understand it, secure it to protect it.*
-
-</td>
-<td width="50%" valign="top">
-
-### 🔬 Current Research
-
-- 🤖 **多智能体安全** — Multi-Agent System Safety
-- 🌍 **世界模型** — World Models & Reasoning
-- 🛡️ **大模型安全** — LLM Red Teaming & Defense
-- 🎮 **游戏逆向** — Game Hacking & Kernel Anti-Cheat
-
-</td>
-</tr>
+  <thead align="center">
+    <tr>
+      <td><b>🔧 Project</b></td>
+      <td><b>📝 Description</b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b>🍴 Forks</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/XiaoWaaay/SVCMonitors"><b>SVCMonitors</b></a></td>
+      <td>Kernel-level SVC system call monitoring module for ARM64</td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/XiaoWaaay/SVCMonitors?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/XiaoWaaay/SVCMonitors?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/XiaoWaaay/VixlDebugger"><b>VixlDebugger</b></a></td>
+      <td>Unicorn + Vixl + Dobby based trace debugger</td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/XiaoWaaay/VixlDebugger?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/XiaoWaaay/VixlDebugger?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/XiaoWaaay/xwTrace"><b>xwTrace</b></a></td>
+      <td>QBDI-based instruction trace tool for native analysis</td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/XiaoWaaay/xwTrace?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/XiaoWaaay/xwTrace?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/XiaoWaaay/frida_trace"><b>frida_trace</b></a></td>
+      <td>Frida-based ARM64 native library tracer</td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/XiaoWaaay/frida_trace?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/XiaoWaaay/frida_trace?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/XiaoWaaay/WDHOOK"><b>WDHOOK</b></a></td>
+      <td>Android kernel-level inline hook framework</td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/XiaoWaaay/WDHOOK?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/XiaoWaaay/WDHOOK?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/XiaoWaaay/WDCapture"><b>WDCapture</b></a></td>
+      <td>Kernel-level HTTPS traffic capture bypassing SSL pinning</td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/XiaoWaaay/WDCapture?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/XiaoWaaay/WDCapture?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+  </tbody>
 </table>
 
-<div align="center">
-
-<!-- GitHub Streak -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=XiaoWaaay&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/XiaoWaaay)
-
-</div>
-
 ---
 
-## 🛠️ Tech Stack & Arsenal
+<h3>🔬 Current Research</h3>
 
-<div align="center">
+```yaml
+research_focus:
+  - Multi-Agent System Safety    # 多智能体安全
+  - World Models & Reasoning     # 世界模型
+  - LLM Red Teaming & Defense    # 大模型攻防
+  - Game Anti-Cheat & Kernel     # 游戏反作弊与内核安全
 
-### 🔓 Reverse Engineering & Security
-![IDA Pro](https://img.shields.io/badge/IDA_Pro-4B0082?style=for-the-badge&logo=hack-the-box&logoColor=white)
-![Frida](https://img.shields.io/badge/Frida-FF6633?style=for-the-badge&logo=frida&logoColor=white)
-![Ghidra](https://img.shields.io/badge/Ghidra-FF0000?style=for-the-badge&logo=national-security-agency&logoColor=white)
-![Xposed](https://img.shields.io/badge/Xposed-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Magisk](https://img.shields.io/badge/Magisk-00AF9C?style=for-the-badge&logo=magisk&logoColor=white)
-![KernelPatch](https://img.shields.io/badge/KernelPatch-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-### 🎮 Game Hacking & Kernel
-![CE](https://img.shields.io/badge/Cheat_Engine-2C2C2C?style=for-the-badge&logo=hack-the-box&logoColor=00ff00)
-![Kernel](https://img.shields.io/badge/Linux_Kernel-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![ARM64](https://img.shields.io/badge/ARM64-0091BD?style=for-the-badge&logo=arm&logoColor=white)
-![eBPF](https://img.shields.io/badge/eBPF-FF6600?style=for-the-badge&logo=linux-foundation&logoColor=white)
-
-### 🤖 AI & LLM
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-
-### 💻 Languages & Tools
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
-
----
-
-## 🔬 Research Interests
-
-<div align="center">
-
-```mermaid
-mindmap
-  root((XiaoWaaay))
-    🔓 Reverse Engineering
-      Android RE
-      Game Hacking
-      Anti-Cheat Bypass
-      Protocol Analysis
-    🛡️ Kernel Security
-      KernelPatch
-      eBPF
-      Syscall Hook
-      ARM64 Exploitation
-    🤖 AI Security
-      Multi-Agent Safety
-      World Models
-      LLM Red Teaming
-      Prompt Injection
-    🎯 Applied
-      API Key Monitoring
-      Vulnerability Research
-      CTF
+expertise:
+  - Android Reverse Engineering (Frida/IDA/Xposed/Magisk)
+  - Kernel Module Development (KernelPatch/eBPF/syscall hooking)
+  - Game Hacking & Memory Analysis
+  - AI Security & Prompt Injection
 ```
 
-</div>
+---
+
+<h3>📊 GitHub Stats</h3>
+
+<p>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=XiaoWaaay&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XiaoWaaay&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+</p>
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=XiaoWaaay&theme=tokyo-night&hide_border=true&radius=8)](https://github.com/XiaoWaaay)
 
 ---
 
-## 📊 GitHub Stats
+<h3>📫 How to reach me</h3>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=XiaoWaaay&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XiaoWaaay&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8"/>
-</div>
-
-<br>
-
-<!-- Activity Graph -->
-<div align="center">
-  
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=XiaoWaaay&theme=tokyo-night&hide_border=true&radius=10)](https://github.com/XiaoWaaay)
-
-</div>
-
-<!-- Snake Animation -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/XiaoWaaay/XiaoWaaay/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/XiaoWaaay/XiaoWaaay/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/XiaoWaaay/XiaoWaaay/output/github-snake-dark.svg" />
-  </picture>
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=XiaoWaaay&theme=tokyonight&no-frame=true&no-bg=true&column=7)](https://github.com/XiaoWaaay)
-
-</div>
-
----
-
-## 📫 Contact Me
-
-<div align="center">
-
-[![Gmail](https://img.shields.io/badge/Gmail-xiaowaaa2@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xiaowaaa2@gmail.com)
-[![WeChat](https://img.shields.io/badge/WeChat-XiaoWaaa66-07C160?style=for-the-badge&logo=wechat&logoColor=white)]()
-[![QQ](https://img.shields.io/badge/QQ-3044506953-EB1923?style=for-the-badge&logo=tencentqq&logoColor=white)]()
-
-</div>
-
----
-
-<div align="center">
-
-### 💡 "The quieter you become, the more you are able to hear."
-
-<br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=XiaoWaaay&color=00f5ff&style=for-the-badge&label=PROFILE+VIEWS)
-
-<br>
-
-<!-- 动态波浪底部 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:00f5ff,100:0d1117&height=120&section=footer" width="100%"/>
-
-</div>
+<p>
+  <a href="mailto:xiaowaaa2@gmail.com"><img src="https://img.shields.io/badge/-xiaowaaa2@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/-WeChat:_XiaoWaaa66-07C160?style=flat-square&logo=wechat&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-QQ:_3044506953-EB1923?style=flat-square&logo=tencentqq&logoColor=white"/>
+</p>
