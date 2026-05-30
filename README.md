@@ -57,25 +57,14 @@ Jailbreak, prompt injection, adversarial robustness
 
 <br/>
 
-## 🧰 Skills
+## 🧰 Skills & Experience
 
-<p>
-  <img src="https://img.shields.io/badge/-IDA_Pro-2C2C2C?style=flat-square&logo=hackthebox&logoColor=9FEF00"/>
-  <img src="https://img.shields.io/badge/-Frida-FF6633?style=flat-square"/>
-  <img src="https://img.shields.io/badge/-Ghidra-D32F2F?style=flat-square"/>
-  <img src="https://img.shields.io/badge/-KernelPatch-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/-eBPF-FF6600?style=flat-square&logo=linuxfoundation&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Xposed-3DDC84?style=flat-square&logo=android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Magisk-00AF9C?style=flat-square&logo=magisk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-ARM64-0091BD?style=flat-square&logo=arm&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-C/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-</p>
+- **逆向分析**：熟练使用 IDA Pro / Frida / Ghidra 进行 Android Native 层逆向，擅长 ARM64 指令级分析、算法还原与协议逆向
+- **内核开发**：基于 KernelPatch / eBPF 开发内核模块，实现 syscall hook、inline hook、SSL 流量无感抓取等能力
+- **游戏安全**：具备游戏反作弊对抗经验，熟悉内存读写、指令 trace、反调试绕过等技术
+- **Android 框架**：熟悉 Xposed / Magisk 模块开发，能够快速定位并 hook 关键函数
+- **AI 安全**：使用 PyTorch / LangChain 研究大模型攻防，包括 Jailbreak、Prompt Injection、多智能体协作安全
+- **编程语言**：C/C++、Python、Java、Kotlin、JavaScript
 
 <br/>
 
