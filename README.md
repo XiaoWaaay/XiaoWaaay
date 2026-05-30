@@ -79,24 +79,6 @@ Jailbreak, prompt injection, adversarial robustness
 
 <br/>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=XiaoWaaay&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&ring_color=58A6FF&icon_color=58A6FF"/>
-  &nbsp;&nbsp;
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=XiaoWaaay&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
-</div>
-
-<br/>
-
-<div align="center">
-  
-  [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=XiaoWaaay&theme=github-compact&hide_border=true&radius=8&area=true&area_color=58A6FF)](https://github.com/XiaoWaaay)
-
-</div>
-
-<br/>
-
 ## 📫 Contact
 
 <div align="center">
