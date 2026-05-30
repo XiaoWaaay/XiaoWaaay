@@ -11,26 +11,30 @@
 <!-- About Me -->
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
 
-```python
-class XiaoWaaay:
-    def __init__(self):
-        self.name = "xiaowaaa"
-        self.role = "Security Researcher & Graduate Student"
-        self.school = "电子科技大学 (UESTC) 🎓"
-        self.focus = ["Android Reverse Engineering",
-                      "Game Hacking & Anti-Cheat",
-                      "Kernel Security",
-                      "LLM & Multi-Agent Safety",
-                      "World Models"]
-        self.motto = "Break it to understand it, secure it to protect it."
-    
-    def current_research(self):
-        return {
-            "多智能体安全": "Multi-Agent System Safety",
-            "世界模型": "World Models & Reasoning",
-            "大模型安全": "LLM Red Teaming & Defense"
-        }
-```
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧑‍💻 Profile
+
+- 🔭 **昵称：** xiaowaaa
+- 🎓 **学校：** 电子科技大学 (UESTC) 研究生在读
+- 🔐 **方向：** 安全研究 & AI Safety
+- 💬 **座右铭：** *Break it to understand it, secure it to protect it.*
+
+</td>
+<td width="50%" valign="top">
+
+### 🔬 Current Research
+
+- 🤖 **多智能体安全** — Multi-Agent System Safety
+- 🌍 **世界模型** — World Models & Reasoning
+- 🛡️ **大模型安全** — LLM Red Teaming & Defense
+- 🎮 **游戏逆向** — Game Hacking & Kernel Anti-Cheat
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
